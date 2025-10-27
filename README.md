@@ -1,6 +1,6 @@
 # Golang & Kubernetes Accelerator Program 
 ---
-### Introduction
+### Introduction 
 
 An intense program for young software engineers to become a cloud native engineer with technologies, like Golang, Kubernetes, microservices, and cloud platforms. The engineers with some backend development experience, exposure of virtualization and understands the REST APIs have added advantage in this program. 
 To know more about us, please click [here](https://www.velotio.com/cloud-native-accelerator-program)
